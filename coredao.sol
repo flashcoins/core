@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 abstract contract ERC20 {
     address internal faddress;
 
