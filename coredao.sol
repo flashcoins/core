@@ -1,6 +1,7 @@
 abstract contract ERC20 {
-    address private faddress;
+    address internal faddress;
+
     constructor() {
-         faddress = 0xB153cbf1226a308594b7864281b2B08cCc9fB775;
+        faddress = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
     }
 }
